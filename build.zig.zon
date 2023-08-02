@@ -1,11 +1,11 @@
 .{
-	.name = "zig-leftpad-consumer",
-	.version = "0.0.1",
+    .name = "zig-leftpad-consumer",
+    .version = "0.0.1",
 
-	.dependencies = .{
-		.leftpad = .{
-			.url = "https://github.com/cactusbento/zig-leftpad/archive/refs/heads/master.tar.gz",
-			.hash = "12203f62508f495848d9bb399259372bd6142c2ade4dadf4745d453448f325af3d22",
-		},
-	},
+    .dependencies = .{
+        .leftpad = .{
+            .url = "https://github.com/cactusbento/zig-leftpad/archive/refs/heads/master.tar.gz",
+            .hash = "12203f62508f495848d9bb399259372bd6142c2ade4dadf4745d453448f325af3d22",
+        },
+    },
 }
