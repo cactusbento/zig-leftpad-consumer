@@ -5,7 +5,7 @@
     .dependencies = .{
         .leftpad = .{
             .url = "https://github.com/cactusbento/zig-leftpad/archive/refs/heads/master.tar.gz",
-            .hash = "12203f62508f495848d9bb399259372bd6142c2ade4dadf4745d453448f325af3d22",
+            .hash = "1220bbea2724049a2669eba970a91f67d1e9ae955123795d9edf9e7c5e9f4fa6b885",
         },
     },
 }
